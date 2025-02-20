@@ -40,7 +40,7 @@ def unwrap_360(file_path):
     flipped_image = cv2.flip(strip_image, 0)
 
     # Define save directory
-    save_dir = "/Users/kaiheng/Documents/python-venv/Image-Processing-Tools/Images/Circular_Unwrap"
+    save_dir = "/Users/kaiheng/Documents/python-venv/Image-Processing-Tools/images/Circular_Unwrap"
     os.makedirs(save_dir, exist_ok=True)  # Ensure directory exists
 
     # Extract filename from the input file path
@@ -53,4 +53,4 @@ def unwrap_360(file_path):
     print(f"Unwrapped image saved at: {unwrapped_path}")
 
 
-unwrap_360("/Users/kaiheng/Documents/python-venv/Image-Processing-Tools/Images/Circular/real_360.webp")
+unwrap_360("/Users/kaiheng/Documents/python-venv/Image-Processing-Tools/images/Circular/sphere360.webp")

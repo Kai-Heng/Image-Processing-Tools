@@ -50,7 +50,7 @@ image-processing-tools/
 │       ├── sphere_360.webp
 │   ├── Circular_Unwrap/
 │       ├── real_360.png
-│       ├── sphere_360.png
+│       ├── sphere360.png
 │   ├── Distortion/
 │       ├── real_distorted.jpg
 │── README.md

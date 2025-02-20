@@ -52,5 +52,5 @@ def undistort_fisheye(image_path):
     plt.show()
 
 # Example usage
-image_path = "/Users/kaiheng/Documents/python-venv/Image-Processing-Tools/Images/Distortion/real_distorted.jpg"
+image_path = "/Users/kaiheng/Documents/python-venv/Image-Processing-Tools/images/Distortion/real_distorted.jpg"
 undistort_fisheye(image_path)
