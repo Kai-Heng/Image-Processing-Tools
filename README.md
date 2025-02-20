@@ -13,7 +13,7 @@ To use these tools, you need to have Python installed along with the required de
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/image-processing-tools.git
+git clone https://github.com/Kai-Heng/Image-Processing-Tools.git
 cd image-processing-tools
 
 # Create a virtual environment (optional but recommended)
@@ -44,9 +44,15 @@ image-processing-tools/
 │── tools/
 │   ├── unwrap_360.py  # 360-degree image unwrapping tool
 │   ├── fisheye_undistort.py  # Fisheye undistortion tool (In Progress)
-│── examples/
-│   ├── sample_360.png
-│   ├── sample_fisheye.png
+│── images/
+│   ├── Circular/
+│       ├── real_360.webp
+│       ├── sphere_360.webp
+│   ├── Circular_Unwrap/
+│       ├── real_360.png
+│       ├── sphere_360.png
+│   ├── Distortion/
+│       ├── real_distorted.jpg
 │── README.md
 │── requirements.txt
 │── setup.py
