@@ -65,5 +65,5 @@ Contributions are welcome! If you'd like to improve an existing tool or add a ne
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or collaborations, reach out via GitHub Issues or email **your-email@example.com**.
+For questions or collaborations, reach out via GitHub Issues or email **info@xemtron.com**.
 
